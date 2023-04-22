@@ -8,5 +8,8 @@
     "exec": "tsc app.ts && node app.js"
   },
   "author": "Denis Krivosheev",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.15.13"
+  }
 }
