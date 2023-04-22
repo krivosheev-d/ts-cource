@@ -1,0 +1,12 @@
+{
+  "name": "ts-cource",
+  "version": "1.0.0",
+  "description": "PurpleSchool TS cource",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "exec": "tsc app.ts && node app.js"
+  },
+  "author": "Denis Krivosheev",
+  "license": "ISC"
+}
